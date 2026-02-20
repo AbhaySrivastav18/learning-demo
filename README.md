@@ -1,2 +1,3 @@
 # learning-demo
-this s the first git
+This s the first git
+Akshay srivastav
